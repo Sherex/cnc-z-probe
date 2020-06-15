@@ -1,4 +1,4 @@
-[Back](../#README)
+[Back](../../../#README)
 
 ---
 # Current customization options
@@ -55,4 +55,4 @@ probe_tip_height = 20;
 ```
 
 ---
-[Back](../#README)
+[Back](../../../#README)
